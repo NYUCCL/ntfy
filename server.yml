@@ -1,4 +1,4 @@
-base-url: "https://ntfy.gureckislab.org"
+base-url: "https://ntfy-2imvla.fly.dev"
 cache-file: "/app/data/cache.db"
 cache-duration: "12h"
 # auth-file: "/app/data/user.db"
